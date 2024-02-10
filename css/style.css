@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+table{
+    border:1px;
+
+}
+
+td{
+    border:1px solid #999;
+    padding: 2px;
+}
+
+button{
+    margin-top: 2px;    
+}
+
+button a{
+    text-decoration: none;      
+    color:white;
+      
+}
+
+button a:hover{
+    text-decoration: none;
+    color:white      
+}
